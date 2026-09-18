@@ -1,0 +1,68 @@
+{
+  "cryptodatadownload_bitstamp_btcusd_hourly.csv": {
+    "cached": true,
+    "path": "data/raw/cryptodatadownload_bitstamp_btcusd_hourly.csv",
+    "sha256": "d0e1a390320de020c52d8781de40efdfbb03319bf1ca25c4b938fbfc5c2088fa",
+    "url": "https://www.cryptodatadownload.com/cdd/Bitstamp_BTCUSD_1h.csv"
+  },
+  "fred_DCOILWTICO.csv": {
+    "cached": true,
+    "path": "data/raw/fred_DCOILWTICO.csv",
+    "sha256": "6d250826de55a2c185af8d2b8e60b1f1f5c70b689c30f7400ca8a240bf6db77b",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILWTICO"
+  },
+  "fred_DFII10.csv": {
+    "cached": true,
+    "path": "data/raw/fred_DFII10.csv",
+    "sha256": "2858e3e6a2e6c11da561381d9566ac5969bff8b61c4bee6e6ea3adf326efe8a9",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFII10"
+  },
+  "fred_DGS10.csv": {
+    "cached": true,
+    "path": "data/raw/fred_DGS10.csv",
+    "sha256": "748e3bf91f6f6420fddba13cd59a4a98d88a4c2f318b16bfa34f47c042f0bbeb",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10"
+  },
+  "fred_DGS2.csv": {
+    "cached": true,
+    "path": "data/raw/fred_DGS2.csv",
+    "sha256": "515452455c02cdbc16b74849a62da7baf280d11acaeccf049b05dba4ae973fe1",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2"
+  },
+  "fred_DTWEXBGS.csv": {
+    "cached": true,
+    "path": "data/raw/fred_DTWEXBGS.csv",
+    "sha256": "2cafc992a0ceb45f72d0ed1a187c35cc43cb7ebb1dae52b6f427948ae1059b49",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS"
+  },
+  "fred_EFFR.csv": {
+    "cached": true,
+    "path": "data/raw/fred_EFFR.csv",
+    "sha256": "b4fd7e5857cd557669aad180258124cc33b1dd6827186e7ff6cf46ffc06fb23f",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=EFFR"
+  },
+  "fred_NASDAQCOM.csv": {
+    "cached": true,
+    "path": "data/raw/fred_NASDAQCOM.csv",
+    "sha256": "c339a5042fff2025bb2064c96bc0dcfd86d45c528fc8abb4b8ee8123e1d9d070",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NASDAQCOM"
+  },
+  "fred_SP500.csv": {
+    "cached": true,
+    "path": "data/raw/fred_SP500.csv",
+    "sha256": "a05c957ec824cd18b6646fa29f881f49c3f55c037b282a4711e984da10ce1255",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=SP500"
+  },
+  "fred_VIXCLS.csv": {
+    "cached": true,
+    "path": "data/raw/fred_VIXCLS.csv",
+    "sha256": "134592bcb309a4f611c30ae235e63da5cb815c48f8ed3e5090e247b9cd6cf81d",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS"
+  },
+  "lbma_gold_am.json": {
+    "cached": true,
+    "path": "data/raw/lbma_gold_am.json",
+    "sha256": "97d02ff62de117d095879d12bac7a597df7e972459763fe728696f3910c77cda",
+    "url": "https://prices.lbma.org.uk/json/gold_am.json"
+  }
+}
